@@ -22,7 +22,7 @@ This URL describes an live application which deployed in AWS Amplify
 Refer to https://nodejs.org/en/ to install nodejs
 
 
-## Cloning and Running the Application in local
+## Clone and Run the Application in local environment
 
 Clone the project directory into local, you can run:
 
