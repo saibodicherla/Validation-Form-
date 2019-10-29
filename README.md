@@ -4,10 +4,10 @@
 
 This Project is built with Redux, React.JS and material-Ui which demonstrates the validation form:-
 
-1. Social security number needs to be in 10 digits: ### `YYMMDD-XXXX` 
+1. Social security number needs to be in 10 digits: `YYMMDD-XXXX` 
 2. Making API call with countries
-3. Mobile number should be:   ### `Eg(+46787985776 or 004678795776)` 
-4. Email address should be:   ### `Eg(john@bynk.se)`   
+3. Mobile number should be:    `Eg(+46787985776 or 004678795776)` 
+4. Email address should be:   `Eg(john@bynk.se)`   
 5. Submit button
 
 
