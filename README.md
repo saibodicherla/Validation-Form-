@@ -13,7 +13,7 @@ This Project is built with  Redux, React.JS and material-Ui which demonstrates t
 
 ## Live Application URL
 
-### https://master.d1v3c9rzdcvf8u.amplifyapp.com/
+### [![Deploy to AWS Amplify](https://oneclick.amplifyapp.com/button.svg)](https://master.d1v3c9rzdcvf8u.amplifyapp.com/)
 This URL describes an live Progressive web application which deployed in AWS Amplify
 
 ## Prerequisites
