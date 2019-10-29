@@ -1,8 +1,8 @@
 
-# React.JS validation-Form
+# React.JS validation-Form (PWA)
 
 
-This Project is built with Redux, React.JS and material-Ui which demonstrates the validation form:-
+This Project is built with  Redux, React.JS and material-Ui which demonstrates the validation form:-
 
 1. Social security number needs to be in 10 digits: `YYMMDD-XXXX` 
 2. Making API call with countries
@@ -14,7 +14,7 @@ This Project is built with Redux, React.JS and material-Ui which demonstrates th
 ## Live Application URL
 
 ### https://master.d1v3c9rzdcvf8u.amplifyapp.com/
-This URL describes an live application which deployed in AWS Amplify
+This URL describes an live Progressive web application which deployed in AWS Amplify
 
 ## Prerequisites
 
